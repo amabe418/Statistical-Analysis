@@ -1,1 +1,2 @@
-agregar visualizacion de datos a traves de graficos.
+- agregar visualizacion de datos a traves de graficos.
+- agregar para que son las pruebas y las conclusiones a los que nos llevan cada analisis que vamos realizando.   
