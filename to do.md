@@ -9,8 +9,8 @@
 - ~~librerias necesarias~~
 - ~~cargar los datos~~
 - limpiar los datos??
-- vizualizar en graficas las variables
-- ~~ver la distribucion de algunas variables~~ (solo de la edad)
+- ~~vizualizar en graficas las variables~~
+- ~~ver la distribucion de algunas variables (solo de la edad)~~
 - pruebas de hipotesis  (longitud axial, yo tengo tres pruebas de hipotesis realizadas)
 - grafico cuantil cuantil
 - prueba de normalidad
@@ -23,7 +23,7 @@
 - anova
 - analisis de los supuestos
 - homocedasticidad
-- ~~regresion logistica~~
+- regresion logistica
 - PCA
   
 
@@ -32,9 +32,9 @@
 - ~~cargar los datos~~
 - probabilidad de tener cancer de pulmon basandonos en la muestra
 - pruebas de hipotesis:
-       1. Fumar esta asociado con el cancer de pulmón
-       2. la edad promedio de pacientes que lo tienen es mayor que las que no lo tienen
-       3. la presencia de tos es un buen predictor del cancer de pulmon.
+       1. Fumar esta asociado con el cancer de pulmón -> usando la prueba Z
+       2. la edad promedio de pacientes que lo tienen es mayor que las que no lo tienen  -> t de student
+       3. la presencia de tos es un buen predictor del cancer de pulmon. -> Chi cuadrado
 - estimadores de intervalos de confianza para la edad
 - modelo de regresion logistica para predecir la presencia del cancer de pulmon
 - arbol de desicion para clasificar el riesgo de cancer
